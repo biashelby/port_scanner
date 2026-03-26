@@ -12,3 +12,6 @@ Este script realiza um **TCP Connect Scan** para identificar portas abertas em u
 3. Abra o terminal e execute o script:
    ```bash
    python port_scanner.py
+   
+## Aviso Ético
+Ferramenta desenvolvida com fins estritamente educacionais para estudos de fundamentos de redes e segurança da informação. A varredura não autorizada de redes de terceiros é ilegal. Execute apenas em ambientes controlados (como localhost) ou em redes onde você possui autorização explícita.
